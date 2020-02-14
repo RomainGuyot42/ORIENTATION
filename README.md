@@ -6,3 +6,7 @@ prepa, IEP, école d'ingénieur, médecine
 
 
 ![Flash code](./test895c57f3b545a6c5363055376a7ce02f.png)  
+
+
+Pour les DUT
+* [https://www.letudiant.fr/lycee/seconde/lycee-quelles-specialites-pour-quel-dut.html](https://www.letudiant.fr/lycee/seconde/lycee-quelles-specialites-pour-quel-dut.html)
