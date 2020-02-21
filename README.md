@@ -1,7 +1,7 @@
 # ORIENTATION - spécialités
 
 enseignements de spécialité
-les combinaisons possibles et les déboucher  
+les combinaisons possibles et les débouchés  
 * [http://www.horizons21.fr/](http://www.horizons21.fr/)
 
 prepa, IEP, école d'ingénieur, médecine
