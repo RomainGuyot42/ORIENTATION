@@ -1,1 +1,7 @@
+title: Orientation
+description: Quelques site  pour vous aider dans votre orientation
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+plugins:
+  - jekyll-redirect-from
